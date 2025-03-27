@@ -1,2 +1,2 @@
 # chatgpt
-Learn ChatGPT
+A guide to mastering ChatGPT
